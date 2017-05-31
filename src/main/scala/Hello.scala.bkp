@@ -1,0 +1,4 @@
+package com.gleason
+object Main extends App {
+  println("Hello, world")
+}
